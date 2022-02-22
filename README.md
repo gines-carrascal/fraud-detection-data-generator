@@ -14,5 +14,5 @@ publisher={Universit{\'e} Libre de Bruxelles}
 }
 
 
-## The date files called fraud_train.csv and fraud_test.csv generated with this tool are freely availabel, provided as is, and without any license.
+## The date files called fraud_train.csv and fraud_test.csv generated with this tool are freely available, provided as is, and without any license.
 
